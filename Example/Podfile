@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTKv_Tests' do
+  pod 'FTKv', :path => '../'
+  
+  
+end
